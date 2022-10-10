@@ -1,18 +1,18 @@
-*“El elefante* es el único mamífero que no puede saltar.”
-*“Un hombre* llamado Charles Osborne tuvo hipo durante 69 años.”
-*“Parpadeamos* más de 10.000.000 de veces en un año.”
-*“Más gente usa cepillos* de dientes azules que de color rojo.”
-*“Los búhos* son las únicas aves que pueden ver el color azul.”
-*“Los ojos de las abejas* tienen un cierto tipo de pelo.”
-*“La orina del gato* brilla bajo la luz negra (ultravioleta).”
-*“Al nacer tenemos 300 huesos,* pero de adulto solo tenemos 206.”
-*“El corazón del erizo* late un promedio de 300 veces por minuto.”
-*“Los dientes humanos* son casi tan duros como piedras.”
-*“Un topo* puede cavar un túnel de 300 pies de largo en solo una noche.”
-*“Los egipcios* antiguos dormían en almohadas hechas de piedra.”
-*“La Tierra* pesa alrededor de 6.588.000.000.000.000.000.000.000 toneladas.”
-*“El corazón humano late* más de 100.000 veces en un día.”
-*“Una persona* tiene más de 1.460 sueños al año.”
-*“Thomas Alba Edison* tenía miedo a la oscuridad”
-*“Los delfines* duermen con un ojo abierto.”
-*“Más de 1.000 aves* mueren anualmente por estrellarse contra ventanas.”
+- *El elefante* es el único mamífero que no puede saltar.
+- *Un hombre* llamado Charles Osborne tuvo hipo durante 69 años.
+- *Parpadeamos* más de 10.000.000 de veces en un año.
+- *Más gente usa cepillos* de dientes azules que de color rojo.
+- *Los búhos* son las únicas aves que pueden ver el color azul.
+- *Los ojos de las abejas* tienen un cierto tipo de pelo.
+- *La orina del gato* brilla bajo la luz negra (ultravioleta).
+- *Al nacer tenemos 300 huesos,* pero de adulto solo tenemos 206.
+- *El corazón del erizo* late un promedio de 300 veces por minuto.
+- *Los dientes humanos* son casi tan duros como piedras.
+- *Un topo* puede cavar un túnel de 300 pies de largo en solo una noche.
+- *Los egipcios* antiguos dormían en almohadas hechas de piedra.
+- *La Tierra* pesa alrededor de 6.588.000.000.000.000.000.000.000 toneladas.
+- *El corazón humano late* más de 100.000 veces en un día.
+- *Una persona* tiene más de 1.460 sueños al año.
+- *Thomas Alba Edison* tenía miedo a la oscuridad
+- *Los delfines* duermen con un ojo abierto.
+- *Más de 1.000 aves* mueren anualmente por estrellarse contra ventanas.
